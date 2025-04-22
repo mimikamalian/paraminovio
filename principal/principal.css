@@ -1,0 +1,66 @@
+html{
+    background-color: white;
+    color: black;
+}
+header{
+    border-bottom: 2px solid black;
+    font-family: Georgia, Times New Roman, Times, 'serif';
+}
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+#uno{
+    border: 0px;
+    background-color: white;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    margin: auto;
+    width: 22%;
+}
+#dos{
+    border: 0px;
+    background-color: white;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    margin: auto;
+    width: 22%;
+}
+#tres{
+    border: 0px;
+    background-color: white;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    margin: auto;
+    width: 22%;
+}
+#cuatro{
+    border: 0px;
+    background-color: white;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    margin: auto;
+    width: 22%;
+}
+img{
+    width: 700px;
+    height: 500px;
+    margin-left: 300px;
+    margin-top: 25px;
+}
+p{
+    margin-left: 580px;
+}
+mark{
+    background-color: #C48793;
+    color: #566D7E;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
